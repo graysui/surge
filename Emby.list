@@ -10,9 +10,9 @@
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
-DOMAIN-SUFFIX,123456.al
-DOMAIN-SUFFIX,285286.xyz
-DOMAIN-SUFFIX,agahk1.jmsooo.com
+DOMAIN,cf.niceduck.lol
+DOMAIN,e.niceduck.me
+DOMAIN,bili.bili.rip
 DOMAIN-SUFFIX,agajp1.jmsooo.com
 DOMAIN-SUFFIX,agasg1.jmsooo.com
 DOMAIN-SUFFIX,aws.jmsooo.com
@@ -54,9 +54,6 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,xmsl.org
-DOMAIN-SUFFIX,niceduck.lol
-DOMAIN-SUFFIX,niceduck.me
-DOMAIN-SUFFIX,bili.rip
 DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
